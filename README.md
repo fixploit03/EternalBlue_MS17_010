@@ -14,3 +14,7 @@ Baca disini: [disini]()
 
 - File ZIP: `EternalBlue (MS17-010)`
 - Aplikasi: `MS17-010`
+
+## Download
+
+Link: [https://github.com/fixploit03/EternalBlue_MS17_010/archive/refs/heads/main.zip](https://github.com/fixploit03/EternalBlue_MS17_010/archive/refs/heads/main.zip)
