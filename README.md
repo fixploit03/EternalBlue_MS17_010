@@ -10,6 +10,7 @@ Script Batch untuk penetrasi testing pada sistem operasi Windows 7 yang rentan t
 
 Baca disini: [disini]()
 
-## Demonstrasi
+## Password
 
-[https://youtu.be/9HZUMtO8fr0?si=itLVImeF3kIvOJoN](https://youtu.be/9HZUMtO8fr0?si=itLVImeF3kIvOJoN)
+- File ZIP: `EternalBlue (MS17-010)`
+- Aplikasi: `MS17-010`
