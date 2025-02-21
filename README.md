@@ -8,7 +8,7 @@ Aplikasi sederhana untuk penetrasi testing pada sistem operasi Windows 7 yang re
 
 ## 🧐 Apa itu Kerentanan EternalBlue (MS17-010)
 
-Baca disini: [disini]()
+Baca disini: [https://github.com/fixploit03/EternalBlue_MS17_010/blob/main/doc/README.md](https://github.com/fixploit03/EternalBlue_MS17_010/blob/main/doc/README.md)
 
 ## 🔑 Password
 
