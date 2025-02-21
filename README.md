@@ -2,9 +2,9 @@
 
 ![img](https://github.com/fixploit03/EternalBlue_MS17_010/blob/main/img/win%207.jpeg)
 
-Script Batch untuk penetrasi testing pada sistem operasi Windows 7 yang rentan terhadap EternalBlue (MS17-010).
+Aplikasi sederhana untuk penetrasi testing pada sistem operasi Windows 7 yang rentan terhadap EternalBlue (MS17-010).
 
-> ⚠️ **DISCLAIMER:** Script ini hanya untuk tujuan pendidikan dan penelitian. Penggunaan tanpa izin pada sistem yang bukan milik Anda adalah tindakan ilegal.  
+> ⚠️ **DISCLAIMER:** Aplikasi ini hanya untuk tujuan pendidikan dan penelitian. Penggunaan tanpa izin pada sistem yang bukan milik Anda adalah tindakan ilegal.  
 
 ## Apa itu Kerentanan EternalBlue (MS17-010)
 
