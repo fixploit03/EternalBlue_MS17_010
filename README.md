@@ -1,6 +1,6 @@
 # MS17-010
 
-![img]()
+![img](https://github.com/fixploit03/EternalBlue_MS17_010/blob/main/img/win%207.jpeg)
 
 Script Batch untuk penetrasi testing pada sistem operasi Windows 7 yang rentan terhadap EternalBlue (MS17-010).
 
