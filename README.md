@@ -10,11 +10,15 @@ Aplikasi sederhana untuk penetrasi testing pada sistem operasi Windows 7 yang re
 
 Baca disini: [https://github.com/fixploit03/EternalBlue_MS17_010/blob/main/doc/README.md](https://github.com/fixploit03/EternalBlue_MS17_010/blob/main/doc/README.md)
 
-## 🔑 Password
+## Demonstrasi
 
-- File ZIP: `EternalBlue (MS17-010)`
-- Aplikasi: `MS17-010`
+> [https://youtu.be/oS7JUB33Gbo?si=JrhlR3bbEYhtkR-J](https://youtu.be/oS7JUB33Gbo?si=JrhlR3bbEYhtkR-J)
 
 ## ⬇️ Download
 
 Link: [https://github.com/fixploit03/EternalBlue_MS17_010/archive/refs/heads/main.zip](https://github.com/fixploit03/EternalBlue_MS17_010/archive/refs/heads/main.zip)
+
+## 🔑 Password
+
+- File ZIP: `EternalBlue (MS17-010)`
+- Aplikasi: `MS17-010`
